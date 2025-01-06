@@ -52,11 +52,5 @@ The Online Retail dataset was analyzed for data quality issues and cleaned to im
 - **Skills**: Data Cleaning, Data Analysis, Data Validation, Business Insights
 
 ## Recommendations
-- Investigate rows with missing CustomerID values to confirm if they are guest purchases.
-- Analyze the impact of returns (negative quantities) on overall revenue and customer satisfaction.
-- Explore transaction patterns across different countries to identify regional trends.
+WIP
 
-## Next Steps
-- Perform exploratory data analysis (EDA) on the cleaned dataset to uncover insights.
-- Develop a dashboard to visualize key metrics, including total revenue, transaction types, and country-level trends.
-- Identify factors contributing to high return rates and propose strategies to minimize them.
