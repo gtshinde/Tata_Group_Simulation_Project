@@ -59,6 +59,13 @@ The Online Retail dataset was analyzed for data quality issues and cleaned to im
 - **Tools**: Python (Pandas, NumPy), Excel, PowerBI
 - **Skills**: Data Cleaning, Data Analysis, Data Validation, Business Insights
 
-## Recommendations
-WIP
+## Insights and Recommendations
+**Reveneu Trends**
+- Peak Performance: November was the strongest month with revenue of $1.5M, followed by October at $1.15M
+- Q4 Dominance: The last quarter showed exceptional performance
+- Seasonal Pattern: Observed lower revenue in early Q1 (February: £523K)
+- Growth Trajectory: Revenue showed an upward trend from September through November
+- December Decline: Revenue dropped to $638K, likely due to holiday season cutoff
+
+
 
