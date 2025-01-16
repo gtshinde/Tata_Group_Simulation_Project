@@ -60,12 +60,27 @@ The Online Retail dataset was analyzed for data quality issues and cleaned to im
 - **Skills**: Data Cleaning, Data Analysis, Data Validation, Business Insights
 
 ## Insights and Recommendations
-**Reveneu Trends**
+**Revenue Trends**
+
+*Insights*:
 - Peak Performance: November was the strongest month with revenue of $1.5M, followed by October at $1.15M
 - Q4 Dominance: The last quarter showed exceptional performance
 - Seasonal Pattern: Observed lower revenue in early Q1 (February: £523K)
 - Growth Trajectory: Revenue showed an upward trend from September through November
 - December Decline: Revenue dropped to $638K, likely due to holiday season cutoff
+
+*Recommendation*: These trends can guide forecasting and planning for the next year, ensuring resources are allocated effectively during peak months.
+
+**Countrywise Revenue Contribution**
+
+*Insights*:
+- Ireland follows closely at $283K (147,447 units)
+- Germany ranks third with $229K (119,263 units)
+- France shows strong performance with $210K (112,104 units)
+- Netherlands leads with $285K in revenue (200,937 units sold)
+
+*Recommendation*: These countries represent key markets for growth and should be prioritized for marketing and sales efforts.
+
 
 
 
