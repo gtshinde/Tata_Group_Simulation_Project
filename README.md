@@ -15,11 +15,14 @@ A comprehensive analysis was conducted on 541k+ purchase transactions, addressin
 ## Dashboard Snapshots
 
 ### Home Page
-<img src="sreenshots/Dashboard.png" alt="Home Page" width="1350px" height="600px">
+<!-- <img src="sreenshots/Dashboard.png" alt="Home Page" width="1350px" height="600px"> -->
 
+![alt text](sreenshots/Dashboard.png)
 
 ### Customer Demographics
-<img src="sreenshots/Customer_Demographics.png" alt="Customer Demographics Page" width="1350px" height="600px">
+<!-- <img src="sreenshots/Customer_Demographics.png" alt="Customer Demographics Page" width="1350px" height="600px"> -->
+
+![alt text](sreenshots/Customer_Demographics.png)
 
 
 ## Data Quality Issues and Cleaning Approaches
