@@ -1,4 +1,4 @@
-# Online Retail Dataset Analysis and Data Cleaning
+# Tata Group Simulation Project
 ## Problem Statement:
 The business aims to analyze its sales data to uncover insights that drive strategic decision-making. Specifically, we seek to address the following:
 
