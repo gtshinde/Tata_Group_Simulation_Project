@@ -12,6 +12,16 @@ The goal is to provide actionable insights to the CEO and CMO, enabling data-dri
 ## Executive Summary
 A comprehensive analysis was conducted on 541k+ purchase transactions, addressing data quality issues like missing values, negative quantities, and pricing errors to create a reliable dataset of 540k records. Key findings revealed that 50% of transactions were from guest accounts, contributing 16% of total revenue, signaling an opportunity to convert one-time buyers into loyal customers. Q4 was the strongest-performing quarter, with November leading in revenue ($1.5M). Six countries, with the Netherlands, Ireland, and Germany being the top contributors, generated 95% of total sales. Seasonal trends and regional sales were visualized in an interactive Power BI dashboard, identifying peak sales periods and high-demand products. These insights highlight opportunities for strategic customer retention, market-specific growth strategies, and optimized resource allocation during high-demand periods.
 
+## Dashboard Snapshots
+
+### Home Page
+<img src="sreenshots/Dashboard.png" alt="Home Page" width="1350px" height="900px">
+
+
+### Customer Demographics
+<img src="sreenshots/Customer_Demographics.png" alt="Home Page" width="1350px" height="900px">
+
+
 ## Data Quality Issues and Cleaning Approaches
 ### Missing Values
 - **Description**: 1,454 records with missing product descriptions.
