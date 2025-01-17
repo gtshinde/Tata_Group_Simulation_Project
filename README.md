@@ -10,7 +10,7 @@ The business aims to analyze its sales data to uncover insights that drive strat
 The goal is to provide actionable insights to the CEO and CMO, enabling data-driven strategies for revenue growth, market expansion, and operational efficiency.
 
 ## Executive Summary
-The Online Retail dataset was analyzed for data quality issues and cleaned to improve usability and accuracy for further analysis. Below is an overview of the identified issues, cleaning approaches, and modifications applied to the dataset.
+A comprehensive analysis was conducted on 541k+ purchase transactions, addressing data quality issues like missing values, negative quantities, and pricing errors to create a reliable dataset of 540k records. Key findings revealed that 50% of transactions were from guest accounts, contributing 16% of total revenue, signaling an opportunity to convert one-time buyers into loyal customers. Q4 was the strongest-performing quarter, with November leading in revenue ($1.5M). Six countries, with the Netherlands, Ireland, and Germany being the top contributors, generated 95% of total sales. Seasonal trends and regional sales were visualized in an interactive Power BI dashboard, identifying peak sales periods and high-demand products. These insights highlight opportunities for strategic customer retention, market-specific growth strategies, and optimized resource allocation during high-demand periods.
 
 ## Data Quality Issues and Cleaning Approaches
 ### Missing Values
@@ -99,7 +99,8 @@ The Online Retail dataset was analyzed for data quality issues and cleaned to im
 - Emerging markets like Spain and Switzerland show promising growth potential
 
 *Recommendation*:
-Expansion Opportunities:
+
+Expansion Opportunities are as follows:
 - Focus on strengthening presence in top 3 markets
 - Consider infrastructure investment in emerging markets
 - Develop market-specific strategies for each region
