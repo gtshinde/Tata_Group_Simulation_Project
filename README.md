@@ -71,7 +71,8 @@ The Online Retail dataset was analyzed for data quality issues and cleaned to im
 
 *Recommendation*: These trends can guide forecasting and planning for the next year, ensuring resources are allocated effectively during peak months.
 
-**Countrywise Revenue Contribution**
+**Countrywise Revenue Contribution** 
+*(UK was excluded as per the request since UK is already a well-performing market, and the focus is on improving other regions)*
 
 *Insights*:
 - Ireland follows closely at $283K (147,447 units)
@@ -80,6 +81,33 @@ The Online Retail dataset was analyzed for data quality issues and cleaned to im
 - Netherlands leads with $285K in revenue (200,937 units sold)
 
 *Recommendation*: These countries represent key markets for growth and should be prioritized for marketing and sales efforts.
+
+**Top Customers**
+
+*Insights*:
+- Customer 14646 is our highest value customer ($280K in revenue)
+- Customer 18102 follows at $260K
+- Customer 17450 ranks third with $195K
+
+*Recommendation*: Personalized engagement and loyalty programs can help retain these high-value customers.
+
+**Product Demand by Country**
+
+*Insights*:
+- Netherlands shows highest product demand
+- Ireland and Germany demonstrate strong market presence
+- Emerging markets like Spain and Switzerland show promising growth potential
+
+*Recommendation*:
+Expansion Opportunities:
+- Focus on strengthening presence in top 3 markets
+- Consider infrastructure investment in emerging markets
+- Develop market-specific strategies for each region
+
+
+
+
+
 
 
 
