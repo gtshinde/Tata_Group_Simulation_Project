@@ -10,7 +10,7 @@ The business aims to analyze its sales data to uncover insights that drive strat
 The goal is to provide actionable insights to the CEO and CMO, enabling data-driven strategies for revenue growth, market expansion, and operational efficiency.
 
 ## Executive Summary
-A comprehensive analysis was conducted on 541k+ purchase transactions, addressing data quality issues like missing values, negative quantities, and pricing errors to create a reliable dataset of 540k records. Key findings revealed that 50% of transactions were from guest accounts, contributing 16% of total revenue, signaling an opportunity to convert one-time buyers into loyal customers. Q4 was the strongest-performing quarter, with November leading in revenue ($1.5M). Six countries, with the Netherlands, Ireland, and Germany being the top contributors, generated 95% of total sales. Seasonal trends and regional sales were visualized in an interactive Power BI dashboard, identifying peak sales periods and high-demand products. These insights highlight opportunities for strategic customer retention, market-specific growth strategies, and optimized resource allocation during high-demand periods.
+A comprehensive analysis was conducted on 541k+ purchase transactions, addressing data quality issues like missing values, negative quantities, and pricing errors to create a reliable dataset of 540k records. Key findings revealed that around 50% of transactions were from guest accounts, contributing 16% of total revenue, signaling an opportunity to convert one-time buyers into loyal customers. Q4 was the strongest-performing quarter, with November leading in revenue ($1.5M). Six countries, with the Netherlands, Ireland, and Germany being the top contributors, generated 95% of total sales. Seasonal trends and regional sales were visualized in an interactive Power BI dashboard, identifying peak sales periods and high-demand products. These insights highlight opportunities for strategic customer retention, market-specific growth strategies, and optimized resource allocation during high-demand periods.
 
 ## Dashboard Snapshots
 
@@ -74,36 +74,45 @@ A comprehensive analysis was conducted on 541k+ purchase transactions, addressin
 - **Skills**: Data Cleaning, Data Analysis, Data Validation, Business Insights
 
 ## Insights and Recommendations
+
+**Guest vs Customer Transactions**
+
+*Insights*:
+
+- Approximately 50% of transactions were made by guest accounts, which represents a significant portion of the customer base.
+- These guest transactions contribute 16% of the total revenue, highlighting their importance despite not being tied to repeat customers.
+- The current customer base is predominantly one-time buyers, suggesting a missed opportunity in fostering customer loyalty and retention.
+
+*Recommendations*:
+
+- Loyalty Program Implementation: Develop and promote a loyalty program to incentivize guest users to create accounts, offering them benefits such as discounts or rewards for repeat purchases.
+- Targeted Retention Campaigns: Leverage customer data to create personalized marketing campaigns aimed at converting one-time buyers into recurring customers.
+- Account Registration Incentives: Introduce time-limited offers or discounts for customers who sign up for an account during checkout to encourage the creation of a more stable customer base.
+- Guest User Follow-Up: Implement a follow-up strategy for guest users, such as email reminders or special offers to encourage them to return and make another purchase, eventually converting them to regular customers.
+
 **Revenue Trends**
 
 *Insights*:
 - Peak Performance: November was the strongest month with revenue of $1.5M, followed by October at $1.15M
 - Q4 Dominance: The last quarter showed exceptional performance
-- Seasonal Pattern: Observed lower revenue in early Q1 (February: £523K)
+- Seasonal Pattern: Observed lower revenue in early Q1 (February: $523K), likely due to post holiday season slow down
 - Growth Trajectory: Revenue showed an upward trend from September through November
-- December Decline: Revenue dropped to $638K, likely due to holiday season cutoff
+
 
 *Recommendation*: These trends can guide forecasting and planning for the next year, ensuring resources are allocated effectively during peak months.
 
-**Countrywise Revenue Contribution** 
-*(UK was excluded as per the request since UK is already a well-performing market, and the focus is on improving other regions)*
+**Revenue Contribution by Country** 
+*(UK was excluded as per the management request since UK is already a well-performing market, and the focus is on improving other regions)*
 
 *Insights*:
+- Netherlands leads with $285K in revenue (200,937 units sold)
 - Ireland follows closely at $283K (147,447 units)
 - Germany ranks third with $229K (119,263 units)
 - France shows strong performance with $210K (112,104 units)
-- Netherlands leads with $285K in revenue (200,937 units sold)
+
 
 *Recommendation*: These countries represent key markets for growth and should be prioritized for marketing and sales efforts.
 
-**Top Customers**
-
-*Insights*:
-- Customer 14646 is our highest value customer ($280K in revenue)
-- Customer 18102 follows at $260K
-- Customer 17450 ranks third with $195K
-
-*Recommendation*: Personalized engagement and loyalty programs can help retain these high-value customers.
 
 **Product Demand by Country**
 
@@ -114,10 +123,19 @@ A comprehensive analysis was conducted on 541k+ purchase transactions, addressin
 
 *Recommendation*:
 
-Expansion Opportunities are as follows:
-- Focus on strengthening presence in top 3 markets
-- Consider infrastructure investment in emerging markets
+- Focus on strengthening presence in top 3 markets which are Netherlands, Ireland, Germany
+- Consider infrastructure investment in emerging markets like Spain and Switzerland
 - Develop market-specific strategies for each region
+
+**Top Customers**
+
+*Insights*:
+- Customer 14646 is our highest value customer ($280K in revenue)
+- Customer 18102 follows at $260K
+- Customer 17450 ranks third with $195K
+
+*Recommendation*: Personalized engagement and loyalty programs can help retain these high-value customers.
+
 
 
 
